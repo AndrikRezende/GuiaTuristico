@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.android.guiaturistico.MainActivity"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/id_praça"
+        style="@style/EstiloPrincipal"
+        android:text="@string/nome_praça"
+        android:background="@color/colorPraca"/>
+    <TextView
+        android:id="@+id/id_clube"
+        style="@style/EstiloPrincipal"
+        android:text="@string/nome_clube"
+        android:background="@color/colorClube"/>
+    <TextView
+        android:id="@+id/id_restaurante"
+        style="@style/EstiloPrincipal"
+        android:text="@string/nome_restaurante"
+        android:background="@color/colorRestaurante"/>
+    <TextView
+        android:id="@+id/id_pizzaria"
+        style="@style/EstiloPrincipal"
+        android:text="@string/nome_pizzaria"
+        android:background="@color/colorPizzaria"/>
+
+</LinearLayout>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Guia Turistico</string>
+    <string name="nome_praça">Praça Getúlio Vargas</string>
+    <string name="nome_clube">Clube Itaporã</string>
+    <string name="nome_restaurante">Restaurante Chalé</string>
+    <string name="nome_pizzaria">Pizzaria Britos</string>
+    <string name="endereco_praça">Endereço: Praça Getúlio Vargas</string>
+    <string name="endereco_clube">Endereço: Rua Antônio Costa Diniz</string>
+    <string name="endereco_restaurante">Endereço: Rua Benedito Valadares</string>
+    <string name="endereco_pizzaria">Endereço: Rua Santa Quitéria</string>
+    <string name="horario_praça">Funcionamento: 24h</string>
+    <string name="horario_clube">Funcionamento: Das 8:00h às 20:00h</string>
+    <string name="horario_restaurante">Funcionamento: Das 8:00h às 18:00h</string>
+    <string name="horario_pizzaria">Funcionamento: Das 8:00h às 20:00h</string>
+    <string name="telefone_clube">Telefone: 35381546</string>
+    <string name="telefone_restaurante">Telefone: 35381686</string>
+    <string name="telefone_pizzaria">Telefone: 35389999</string>
+</resources>
